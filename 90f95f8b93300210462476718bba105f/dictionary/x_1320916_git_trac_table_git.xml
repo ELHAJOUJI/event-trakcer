@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="15aa938393700210462476718bba1075" label="Table-git" max_length="40" name="x_1320916_git_trac_table_git" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="last-name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
